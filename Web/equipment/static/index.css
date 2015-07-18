@@ -1,0 +1,22 @@
+#header {
+  ;
+}
+
+.section {
+  height: auto;
+  padding: 120px 0;
+}
+
+.section.black {
+  width: 100%;
+  color: #ffffff;
+  background-color: #414141;
+}
+
+.section.grey {
+  background-color: #f6f6f6;
+}
+
+th td {
+  border-color: #d1d1d1;
+}
